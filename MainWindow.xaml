@@ -1,0 +1,52 @@
+﻿<Window x:Class="StepsMIDI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect MIDI Controller" Width="700" Height="355.522" Loaded="Window_Loaded_1">
+    <Canvas Width="680" Height="300">
+        <Canvas Canvas.Left="15" Width="320" Height="240">
+            <Image Width="320" Height="240" Source="./images/NODATA.jpg" Name="colorimageimg">
+
+            </Image>
+            <WrapPanel Canvas.Left="40" Width="240" Height="240">
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                
+            </WrapPanel>
+
+
+           
+        </Canvas>
+        <Canvas Canvas.Left="345" Width="320" Height="240" >
+            <Image Width="320" Height="240" Source="./images/NODATA.jpg"  Name="deplthimageimg"></Image>
+
+            
+         <WrapPanel Canvas.Left="40" Width="240" Height="240">
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+                <Rectangle Height="80" Stroke="Red" Width="80"/>
+         </WrapPanel>
+
+          
+
+   </Canvas>
+        <Canvas Canvas.Left="345" Width="320" Height="240" Name="canvas1">
+       
+        </Canvas>
+        <Label Canvas.Bottom="10" Name="Statuslbl" Content="Status: Not Started" />
+
+        
+    </Canvas>
+</Window>

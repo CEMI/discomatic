@@ -1,0 +1,17 @@
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\bin\Debug\StepsMIDI.exe.config
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\bin\Debug\StepsMIDI.exe
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\bin\Debug\StepsMIDI.pdb
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\bin\Debug\AForge.dll
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\bin\Debug\AForge.Imaging.dll
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\bin\Debug\AForge.Math.dll
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI.csprojResolveAssemblyReference.cache
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\MainWindow.baml
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\MainWindow.g.cs
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\App.g.cs
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI_Content.g.cs
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI_MarkupCompile.cache
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI.g.resources
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI.Properties.Resources.resources
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI.csproj.GenerateResource.Cache
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI.exe
+C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI.pdb
