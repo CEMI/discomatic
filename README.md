@@ -1,8 +1,8 @@
 # Discomatic 
 
 A utility that takes advantage of the Kinect IR Cameraa to "blob" track the average center of multiple people, from 9 meters above the ground, as they move into different "zones", which then sends a different midi signal to "LoopMIDI" http://www.tobias-erichsen.de/software/loopmidi.html
-
-LoopMiDi is easily recognizable by Ableton Live.  DISCOMATIC, along with LoopMiDi and Ableton Live allows us to create interactive installations where users can control audio, lights, and even video.
+<br>
+<br>LoopMiDi is easily recognizable by Ableton Live.  DISCOMATIC, along with LoopMiDi and Ableton Live allows us to create interactive installations where users can control audio, lights, and even video.
 
 ## Code and Build Status
 
