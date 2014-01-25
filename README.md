@@ -16,11 +16,13 @@ This is the version used for the 2014 New Year's installation as part of Boston 
 -Allow disabling of video to reduce resource consumption.
 
 ### Low Priority [Wish List]
--The Ability to reconfigure the Grid [More/Less and Larger/Smaller Squares and/or Rectangles.]<br>
--Control which MIDI CC or Note is being sent in each Zone
--Kinect Zoom/Pan/Tilt Access
--Change to MIDI CC?
--Client/server model so one machine can run this, and multiple machines can run the client to send midi thru ableton
+- The Ability to reconfigure the Grid [More/Less and Larger/Smaller Squares and/or Rectangles.]<br>
+- Control which MIDI CC or Note is being sent in each Zone
+- Kinect Zoom/Pan/Tilt Access
+- Change to MIDI CC?
+- Client/server model so one machine can run server to watch kinect and process, and multiple machines can run the client to send midi thru ableton
+-- web config/live edit?
+-- light scripting directly( video->derez)
 
 ## Original Author
 Munish Dhiman<br>
