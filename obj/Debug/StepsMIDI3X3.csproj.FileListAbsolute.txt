@@ -24,3 +24,29 @@ C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI
 C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI3X3.exe
 C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI3X3.pdb
 C:\Users\munishkdhiman\Documents\Visual Studio 2012\Projects\StepsMIDI\StepsMIDI\obj\Debug\StepsMIDI3X3.csprojResolveAssemblyReference.cache
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\StepsMIDI3X3.exe.config
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3.exe
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3.pdb
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\StepsMIDI3X3.exe
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\StepsMIDI3X3.pdb
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\AForge.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\AForge.Imaging.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\AForge.Math.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.IO.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.Media.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.Media.IO.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.Midi.Components.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.Midi.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.Midi.IO.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.Midi.Message.dll
+C:\Users\Kern\Documents\GitHub\discomatic\bin\Debug\CannedBytes.Midi.Xml.dll
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3.csprojResolveAssemblyReference.cache
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\MainWindow.baml
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\MainWindow.g.cs
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\App.g.cs
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3_Content.g.cs
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3_MarkupCompile.cache
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3.g.resources
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3.Properties.Resources.resources
+C:\Users\Kern\Documents\GitHub\discomatic\obj\Debug\StepsMIDI3X3.csproj.GenerateResource.Cache
